@@ -1,0 +1,3 @@
+digital-ware:
+  persistence:
+    path: file:src/main/resources/persistence/
